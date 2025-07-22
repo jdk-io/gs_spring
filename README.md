@@ -1,5 +1,8 @@
 # gs_spring
-Spring ecosystem
+[Spring ecosystem](https://en.wikipedia.org/wiki/Spring_Framework)
+
+# References
+1. [Spring guides](https://spring.io/guides). Retrieved July 22, 2025.
 
 # Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request or open an issue in the repository.
